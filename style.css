@@ -9,7 +9,7 @@
   width: 100%;
   background-image: url(media/image.png);
   background-size: cover;
-  background-position: center;
+  background-position: relative;
   position: relative;
   }
 .navBar{
